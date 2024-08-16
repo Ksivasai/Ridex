@@ -1,2 +1,2 @@
 # Ridex
-an web development project based on PHP backend technologies
+An web development project based on PHP backend technologies
